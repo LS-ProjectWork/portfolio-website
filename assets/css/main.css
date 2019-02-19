@@ -3640,6 +3640,7 @@ input, select, textarea {
 			padding: 3em 0 1em 0 ;
 			margin: 0 auto;
 			width: 55em;
+			display: none;
 		}
 
 		.wrapper.style2 {
